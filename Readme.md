@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://github.com/Prodigy-API
+> https://prodigy-api.github.io/
 
 :star: Star me on GitHub — it helps!
 
@@ -33,8 +33,6 @@
 ✔️ Resume\
 ✔️ Contact Info
 
-
-
 ## Tools Used 🛠️
 * <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS).
 
@@ -46,8 +44,6 @@
 
 - **Option 2**
     - 👯 Clone this repo to your local machine.
-
-
 #### Step 2
 
 - **Build your code** 🔨🔨🔨
