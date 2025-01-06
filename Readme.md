@@ -1,10 +1,11 @@
 # Personal Portfolio 🔥
-> https://prodigy-api.github.io/
+> https://github.com/SourcedCMD
+
 
 :star: Star me on GitHub — it helps!
 
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajaprerak/prodigy-api.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://prodigy-api.github.io/)
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajaprerak/SourcedCMD.github.io/commits/master)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://SourcedCMD.github.io/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
   
 :star: Star me on GitHub — it helps!
