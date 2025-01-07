@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://github.com/SourcedCMD
+> https://sourcedcmd.github.io/
 
 
 :star: Star me on GitHub — it helps!
